@@ -8,7 +8,7 @@ class Figure
 {
 public:
   Figure() {
-    cout << "F ";
+    cout << "Figure ";
   }
 };
 
