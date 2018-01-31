@@ -1,8 +1,5 @@
 ﻿#include <iostream>
 
-// test de David Müller
-// ====================
-
 using namespace std;
 
 class Figure
@@ -46,4 +43,3 @@ int main()
   Parallelepiped p(1,2);
   return 0;
 }
-
